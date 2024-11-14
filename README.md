@@ -12,3 +12,6 @@
 - Run command "http-server -o"
 - Browser should show up the application page.
 - Feel free to contact me if you have a problem.
+
+## Screenshot
+![preview.gif](https://raw.githubusercontent.com/fxaxt/todolist/refs/heads/main/1731567510248.gif)
